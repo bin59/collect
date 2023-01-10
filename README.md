@@ -8,3 +8,4 @@
  *
  * Copyright (c) 2023 by binbin 81745365+bin59@users.noreply.github.com, All Rights Reserved.
 -->
+# 日常收藏记录仓库
